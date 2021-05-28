@@ -1,0 +1,50 @@
+.top{
+	background-color: black;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: cursive;
+	padding: 10px
+}
+
+body{
+	margin: 15px
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: green;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color: lightgreen;
+  color: black;
+}
+.topnav a.right {
+	float:right;
+}
+p{
+	font-style:serif;
+	font-size: 20px
+}
+
+.news{
+
+	border-style: solid;
+	border-width: thin;
+	margin: 10px
+}
+
+img{
+	width: 15%
+}
